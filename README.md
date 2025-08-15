@@ -33,26 +33,28 @@
 ✅ Version Control — Git & GitHub
 # 📂 Project List
 
-| #  | Project Name                     | Key Skills                          |
-|----|----------------------------------|--------------------------------------|
-| 1  | Student Database                 | SQLite, CRUD                         |
-| 2  | Weather App                      | API calls, JSON                      |
-| 3  | Expense Tracker                  | File handling                        |
-| 4  | To-Do List                       | Tkinter GUI                          |
-| 5  | Quiz App                         | Logic, GUI                           |
-| 6  | Unit Converter                   | Math, GUI                            |
-| 7  | Calculator GUI                   | Event handling                       |
-| 8  | Password Generator               | Random module, GUI                   |
-| 9  | Watermark App                    | Pillow, Image editing                |
-| 10 | Rock–Paper–Scissors              | Game logic, Tkinter                  |
-| 11 | Data Visualization               | Matplotlib                           |
-| 12 | CSV Data Analyzer                | Pandas                               |
-| 13 | API Data Dashboard               | APIs, GUI                            |
-| 14 | Live Crypto Price                | APIs, JSON, Tkinter                   |
-| 15 | Software Crypto Price Tracker    | APIs, GUI                            |
-| 16 | Weather Dashboard                | API integration, Data visualization  |
-| 17 | Automation Script                | OS & automation                      |
-| 18 | Final Capstone Project           | All skills combined                  |
+| #  | Project Name                     | Key Skills                           | Links                   |
+|----|----------------------------------|--------------------------------------|-------------------------
+# 📂 Project List
+
+| #  | Project Name                     | Key Skills                           | Links |
+|----|----------------------------------|--------------------------------------|-------|
+| 1  | [Student Database](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/2.contact) | SQLite, CRUD | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/2.contact) |
+| 2  | [Weather App](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/3.Weather%20app) | API calls, JSON | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/3.Weather%20app) |
+| 3  | [Expense Tracker](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/4.organiseer) | File handling | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/4.organiseer) |
+| 4  | [Resume Generator](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/5.Resume_genrator) | Automation, Templates | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/5.Resume_genrator) |
+| 5  | [Currency Converter](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/7.currancy%20converter) | Math, APIs | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/7.currancy%20converter) |
+| 6  | [Calculator GUI](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/8CalculatorGUI) | Event handling | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/8CalculatorGUI) |
+| 7  | [Password Generator App](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/9.Passoword%20genrated%20app) | Random module, GUI | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/9.Passoword%20genrated%20app) |
+| 8  | [Watermark App](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/10.Watermark%20app) | Pillow, Image editing | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/10.Watermark%20app) |
+| 9  | [Rock–Paper–Scissors](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/11.%20Rock_Paper%20game) | Game logic, Tkinter | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/11.%20Rock_Paper%20game) |
+| 10 | [Data Visualization](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/12.Data_visualization) | Matplotlib | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/12.Data_visualization) |
+| 11 | [CSV Data Analyzer](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/13.CSV_data_analysis) | Pandas | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/13.CSV_data_analysis) |
+| 12 | [Live Crypto Price](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/14.%20Live_Crypto_price) | APIs, JSON, Tkinter | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/14.%20Live_Crypto_price) |
+| 13 | [Software Crypto Price Tracker](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/15.software%20cryptoprice) | APIs, GUI | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/15.software%20cryptoprice) |
+| 14 | [Weather Dashboard](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/16.Weather_dashboard) | API integration, Data visualization | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/16.Weather_dashboard) |
+| 15 | [Automation Scripts](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation) | OS & automation | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation) |
+| 16 | Final Capstone Project           | All skills combined                  |
 
 # 🛠 How to Run Any Project
 
