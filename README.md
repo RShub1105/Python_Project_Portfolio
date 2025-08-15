@@ -65,7 +65,7 @@
 ## 3️⃣ Run the Python file
     python filename.py
 
-## 📈 Why This Portfolio greate
+## 📈 Why This Portfolio Great
 
 ⭐ Wide Coverage — From small scripts to complete applications
  
