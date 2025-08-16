@@ -33,10 +33,6 @@
 ✅ Version Control — Git & GitHub
 # 📂 Project List
 
-| #  | Project Name                     | Key Skills                           | Links                   |
-|----|----------------------------------|--------------------------------------|-------------------------
-# 📂 Project List
-
 | #  | Project Name                     | Key Skills                           | Links |
 |----|----------------------------------|--------------------------------------|-------|
 | 1  | [Student Database](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/2.contact) | SQLite, CRUD | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/2.contact) |
