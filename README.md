@@ -35,6 +35,9 @@
 
 | #  | Project Name                     | Key Skills                           | Links |
 |----|----------------------------------|--------------------------------------|-------|
+
+| 1 | [Weather Dashboard](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/16.Weather_dashboard) | API integration, Data visualization | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/16.Weather_dashboard) |
+
 | 1  | [Student Database](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/2.contact) | SQLite, CRUD | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/2.contact) |
 | 2  | [Weather App](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/3.Weather%20app) | API calls, JSON | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/3.Weather%20app) |
 | 3  | [Expense Tracker](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/4.organiseer) | File handling | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/4.organiseer) |
@@ -48,7 +51,7 @@
 | 11 | [CSV Data Analyzer](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/13.CSV_data_analysis) | Pandas | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/13.CSV_data_analysis) |
 | 12 | [Live Crypto Price](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/14.%20Live_Crypto_price) | APIs, JSON, Tkinter | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/14.%20Live_Crypto_price) |
 | 13 | [Software Crypto Price Tracker](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/15.software%20cryptoprice) | APIs, GUI | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/15.software%20cryptoprice) |
-| 14 | [Weather Dashboard](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/16.Weather_dashboard) | API integration, Data visualization | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation/16.Weather_dashboard) |
+
 | 15 | [Automation Scripts](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation) | OS & automation | 🔗 [Open](https://github.com/RShub1105/Python_Project_Portfolio/tree/main/PYTHON%20Practice%20/Advance%20pyhton%20automation) |
 | 16 | Final Capstone Project           | All skills combined                  |
 
